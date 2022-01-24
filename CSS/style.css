@@ -3,3 +3,14 @@
 .img-opacity{
     opacity: 0.8;
 }
+
+.custom-badge{
+    margin-left: 230px;
+}
+
+.fa-check-circle{
+     
+    font-size: 20px;
+    color:skyblue;
+     
+}
