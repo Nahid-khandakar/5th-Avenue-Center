@@ -1,3 +1,12 @@
+/* google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.custom-text-heading{
+    font-family: 'Poppins';
+    font-weight: 800;
+}
+
+
 /* image opacity for image slider  */
 
 .img-opacity{
@@ -6,13 +15,27 @@
 
 .custom-badge{
     margin-left: 230px;
+    
 }
 
 .fa-check-circle{
      
     font-size: 20px;
-    color:#5243c2;
-    background-color: transparent;
-    
-     
+    color:tomato;
+    background-color: transparent;    
 }
+
+.custom-fav{
+    color: whitesmoke;
+}
+
+.custom-bg-card{
+    background-color: tomato;
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+
+}
+
+
+
